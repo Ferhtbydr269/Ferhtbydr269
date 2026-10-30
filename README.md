@@ -3,76 +3,95 @@
 </p>
 
 <p align="center">
-  <a href="https://ferhatbaydir.com.tr/">Website</a> &nbsp;/&nbsp;
-  <a href="https://www.linkedin.com/in/ferhat-bayd%C4%B1r">LinkedIn</a> &nbsp;/&nbsp;
-  <a href="https://ferhat-portfolio-plum.vercel.app">Portfolio</a> &nbsp;/&nbsp;
-  <a href="mailto:ferhatbaydir7@gmail.com">İletişime geç</a>
+  <a href="https://ferhatbaydir.com.tr/"><img src="https://img.shields.io/badge/Website-ferhatbaydir.com.tr-0b0f17?style=for-the-badge&logo=googlechrome&logoColor=34d399&labelColor=0b0f17" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/ferhat-bayd%C4%B1r"><img src="https://img.shields.io/badge/LinkedIn-Ferhat_Baydır-0b0f17?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=0b0f17" alt="LinkedIn"></a>
+  <a href="mailto:ferhatbaydir7@gmail.com"><img src="https://img.shields.io/badge/E--posta-Yaz_bana-0b0f17?style=for-the-badge&logo=gmail&logoColor=f472b6&labelColor=0b0f17" alt="E-posta"></a>
+  <a href="https://ferhat-portfolio-plum.vercel.app"><img src="https://img.shields.io/badge/3D_Portfolio-Gez-0b0f17?style=for-the-badge&logo=threedotjs&logoColor=a78bfa&labelColor=0b0f17" alt="Portfolio"></a>
 </p>
 
-Ben **Ferhat Baydır** — Manisa Celal Bayar Üniversitesi'nde Bilgisayar Mühendisliği öğrencisiyim.
-Gerçek işletmeler için uçtan uca web ürünleri geliştiriyor, veri analizi ve makine öğrenmesi üzerine çalışıyorum.
+<p align="center">
+  <img src="assets/terminal.svg" alt="whoami: Mobile Developer · Backend Developer · Network Engineer" width="100%">
+</p>
 
-Burada fikirden canlı ürüne giden projelerimi, prototiplerimi ve deneylerimi bulabilirsin.
+<p align="center">
+  <b>Mobil uygulama yazıyorum, arkasındaki backend'i kuruyorum, paketlerin hangi kablodan geçtiğini de biliyorum.</b><br>
+  <sub>Hedefim: kurumsal bir Network ekibinde staj · Yazılım ile altyapının kesiştiği yerde otomasyon</sub>
+</p>
 
-## Buradan başla
+## ⚡ Öne çıkan projeler
+
+<p align="center">
+  <a href="https://vuslatapp.vercel.app"><img src="assets/card-vuslat.svg" width="49%" alt="Vuslat — mobil uygulama"></a>
+  <a href="https://sevmado.vercel.app"><img src="assets/card-sevmado.svg" width="49%" alt="SEVMADO — e-ticaret backend"></a>
+  <a href="https://qrmenum-chi.vercel.app"><img src="assets/card-menumcepte.svg" width="49%" alt="MenümCepte — multi-tenant SaaS"></a>
+  <a href="https://github.com/Ferhtbydr269/agrishield-web"><img src="assets/card-agrishield.svg" width="49%" alt="AgriShield — TEKNOFEST 2026 FinTech"></a>
+  <a href="https://github.com/Ferhtbydr269/fastApp"><img src="assets/card-edufast.svg" width="49%" alt="EduFast — FastAPI REST API"></a>
+  <a href="#-network-lab"><img src="assets/card-netauto.svg" width="49%" alt="Network Automation — Python & Netmiko"></a>
+</p>
+
+<sub>Vuslat, SEVMADO ve MenümCepte müşteri/ürün projeleri olduğu için kodları gizli; kartlara tıklayınca canlı sürüme gidersin.</sub>
+
+## 🛰️ Paketten piksele
+
+<p align="center">
+  <img src="assets/architecture.svg" alt="İstemci → ağ katmanı → backend → veritabanı akışı" width="100%">
+</p>
+
+## 🌐 Network Lab
+
+| Proje | Araçlar | Ne yaptım |
+|---|---|---|
+| **Kurumsal Ağ Tasarımı** | Packet Tracer · VLAN · Inter-VLAN · OSPF · Site-to-Site VPN · ACL | 3 şubeli kurumsal topoloji; VLAN segmentasyonu, OSPF yönlendirme, şubeler arası VPN ve dokümante edilmiş IP planı |
+| **Network Automation Script** | Python · Netmiko · SSH · Cisco IOS | Çok sayıda cihaza toplu VLAN/interface konfigürasyonu; hata yönetimi, retry ve otomatik log |
+| **Wireshark Trafik Analizi** | Wireshark · ARP · DNS · HTTP | Yerel ağ trafiğinde anomali tespiti ve güvenlik odaklı analiz raporu |
+
+## 🧰 Teknolojiler
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <sub>01 / FINTECH</sub><br>
-      <a href="https://github.com/Ferhtbydr269/agrishield-web"><b>AgriShield</b></a><br>
-      Uydu, köy istasyonu ve resmi meteoroloji verisiyle çalışan parametrik kuraklık sigortası prototipi.
-      <br><sub>TEKNOFEST 2026 FinTech · TypeScript</sub>
-    </td>
-    <td width="50%" valign="top">
-      <sub>02 / VERİMLİLİK</sub><br>
-      <a href="https://github.com/Ferhtbydr269/pusula"><b>Pusula</b></a><br>
-      Haftanı tek sayfada tut: yedi gün, görevler, sınırlı erteleme hakları ve günlük takip.
-      <br><sub>Next.js · Firebase · <a href="https://pusula-eta.vercel.app">canlı demo</a></sub>
-    </td>
+    <td width="130"><b>📱 Mobil</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,ts,js,supabase,firebase&theme=dark" height="40" alt="Mobil"> &nbsp; <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo"> <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"></td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <sub>03 / EĞİTİM</sub><br>
-      <a href="https://github.com/Ferhtbydr269/oxford3000-gorsel"><b>Oxford 3000 Görsel</b></a><br>
-      İngilizce kelimeleri cümle içinde, her kelimenin altında görseliyle öğreten mobil öncelikli uygulama.
-      <br><sub>JavaScript</sub>
-    </td>
-    <td width="50%" valign="top">
-      <sub>04 / KARİYER</sub><br>
-      <a href="https://github.com/Ferhtbydr269/staj_rehber_sitesi"><b>Veri Merkezi Staj Rehberi</b></a><br>
-      İzmir–Bursa–Manisa hattındaki veri merkezi ve bulut firmaları için staj rehberi.
-      <br><sub>TypeScript · <a href="https://staj-rehber-sitesi.vercel.app">canlı demo</a></sub>
-    </td>
+    <td><b>⚙️ Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,django,flask,postgres,prisma,nextjs&theme=dark" height="40" alt="Backend"></td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <sub>05 / 3D WEB</sub><br>
-      <a href="https://github.com/Ferhtbydr269/ferhat-portfolio"><b>Sinematik 3D Portfolio</b></a><br>
-      Three.js destekli, cyberpunk temalı kişisel portfolyo sitesi.
-      <br><sub>React · Three.js · <a href="https://ferhat-portfolio-plum.vercel.app">canlı demo</a></sub>
-    </td>
-    <td width="50%" valign="top">
-      <sub>06 / KURUMSAL</sub><br>
-      <a href="https://github.com/Ferhtbydr269/alesta-site"><b>ALESTA İlaçlama</b></a><br>
-      Bursa'daki bir ilaçlama firması için üretime hazır kurumsal web sitesi.
-      <br><sub>Next.js · TypeScript · <a href="https://alestailaclama.vercel.app">canlı demo</a></sub>
-    </td>
+    <td><b>🌐 Network</b></td>
+    <td><img src="https://skillicons.dev/icons?i=linux,bash,powershell&theme=dark" height="40" alt="Network"> &nbsp; <img src="https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco"> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark"> <img src="https://img.shields.io/badge/GNS3-2b2b2b?style=flat-square" alt="GNS3"> <img src="https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white" alt="pfSense"> <img src="https://img.shields.io/badge/Nmap-0E83CD?style=flat-square" alt="Nmap"> <img src="https://img.shields.io/badge/Netmiko-3776AB?style=flat-square&logo=python&logoColor=white" alt="Netmiko"></td>
+  </tr>
+  <tr>
+    <td><b>🎨 Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,threejs,html,css,figma,vercel,git&theme=dark" height="40" alt="Frontend"></td>
   </tr>
 </table>
 
-## Kullandığım araçlar
+## 🏆 Başarılar & sertifikalar
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,tailwind,threejs,firebase,supabase,django,fastapi,vercel,git&perline=13" alt="Teknolojiler">
+- 🥇 **TEKNOFEST** Yapay Zeka Film Yarışması — **Finalist**
+- 🌾 **TEKNOFEST 2026** Finansal Teknolojiler — AgriShield ile **final**
+- 🎓 Cisco **CCNA: Introduction to Networks** — devam ediyor (hedef Haziran 2026)
+- 🛡️ Fortinet **NSE 1-2-3** — devam ediyor · Huawei **HCIA-Datacom** — hedef 2026
+- 🏛️ Manisa CBÜ Proje Koordinasyon Uygulama ve Araştırma Merkezi — 1 yıl stajyer / proje asistanı
+
+<details>
+<summary><b>📦 Diğer canlı projeler</b></summary>
+<br>
+
+| Proje | Ne | Yığın |
+|---|---|---|
+| [Pusula](https://github.com/Ferhtbydr269/pusula) · [demo](https://pusula-eta.vercel.app) | Haftalık plan ve günlük takip | Next.js · Firebase Auth · Firestore |
+| [Duru Temizlik](https://duru-temizlik.vercel.app) | 44 sayfalık kurumsal site + admin paneli | Next.js · Firebase |
+| [Oxford 3000 Görsel](https://github.com/Ferhtbydr269/oxford3000-gorsel) | Görselli İngilizce kelime öğrenme | JavaScript |
+| [Veri Merkezi Staj Rehberi](https://github.com/Ferhtbydr269/staj_rehber_sitesi) · [demo](https://staj-rehber-sitesi.vercel.app) | İzmir–Bursa–Manisa veri merkezi rehberi | Vite · TypeScript |
+| [ALESTA İlaçlama](https://github.com/Ferhtbydr269/alesta-site) · [demo](https://alestailaclama.vercel.app) | Kurumsal web sitesi | Next.js |
+| [Linka](https://github.com/Ferhtbydr269/Linka_social_platform) | Sosyal medya platformu | Django |
+| [3D Portfolio](https://github.com/Ferhtbydr269/ferhat-portfolio) · [demo](https://ferhat-portfolio-plum.vercel.app) | Sinematik 3D portfolyo | React · Three.js |
+
+</details>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ferhtbydr269&style=flat-square&color=34d399&label=profil+ziyareti" alt="Profil ziyareti">
 </p>
 
-## Odak alanlarım
-
-- **Web ürünleri** — Next.js + Supabase/Firebase ile işletmelere uçtan uca siteler
-- **Veri analizi** — Python, Pandas ve görselleştirme
-- **Makine öğrenmesi** — modelleri gerçek problemler üzerinde denemek
-
----
-
-<p align="center"><sub>Bir proje fikrin mi var? <a href="mailto:ferhatbaydir7@gmail.com">Yaz</a>, birlikte kuralım.</sub></p>
+<p align="center"><sub>Bir staj, proje ya da fikir mi var? <a href="mailto:ferhatbaydir7@gmail.com">Yaz</a> — birlikte kuralım.</sub></p>

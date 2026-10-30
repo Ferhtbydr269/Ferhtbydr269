@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="240" viewBox="0 0 440 240">
+<defs>
+<linearGradient id="bcardvuslatsvg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6" stop-opacity=".25"/></linearGradient>
+<radialGradient id="gcardvuslatsvg" cx="1" cy="0" r="1"><stop offset="0" stop-color="#a78bfa" stop-opacity=".28"/><stop offset=".6" stop-color="#a78bfa" stop-opacity="0"/></radialGradient>
+<linearGradient id="tcardvuslatsvg" x1="0" x2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="438" height="238" rx="18" fill="#0b0f17"/>
+<rect x="1" y="1" width="438" height="238" rx="18" fill="url(#gcardvuslatsvg)"/>
+<rect x="1" y="1" width="438" height="238" rx="18" fill="none" stroke="url(#bcardvuslatsvg)" stroke-width="1.5"/>
+<text x="28" y="40" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" letter-spacing="1.5" fill="#a78bfa">01 / MOBİL UYGULAMA</text>
+<rect x="291" y="24" width="121" height="24" rx="12" fill="#ffffff" fill-opacity=".05" stroke="#ffffff" stroke-opacity=".12"/>
+<circle cx="305" cy="36" r="4" fill="#a78bfa"><animate attributeName="opacity" values="1;.25;1" dur="1.6s" repeatCount="indefinite"/></circle>
+<text x="315" y="40" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="700" letter-spacing=".8" fill="#e6edf3">iOS · ANDROID</text>
+<text x="28" y="84" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="800" fill="url(#tcardvuslatsvg)">Vuslat</text>
+<text x="28" y="116" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#a9b4c2">Çiftlere özel uygulama: zamanı gelince açılan</text>
+<text x="28" y="137" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#a9b4c2">mektuplar, anılar, şehir haritası, günlük sorular</text>
+<text x="28" y="158" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#a9b4c2">ve ortak hikâyeyi PDF kitaba dönüştürme.</text>
+<rect x="28" y="190" width="50" height="24" rx="12" fill="#a78bfa" fill-opacity=".12" stroke="#a78bfa" stroke-opacity=".45"/><text x="53" y="206" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#a78bfa">Expo</text><rect x="86" y="190" width="107" height="24" rx="12" fill="#a78bfa" fill-opacity=".12" stroke="#a78bfa" stroke-opacity=".45"/><text x="139.5" y="206" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#a78bfa">React Native</text><rect x="201" y="190" width="79" height="24" rx="12" fill="#a78bfa" fill-opacity=".12" stroke="#a78bfa" stroke-opacity=".45"/><text x="240.5" y="206" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#a78bfa">Supabase</text><rect x="288" y="190" width="50" height="24" rx="12" fill="#a78bfa" fill-opacity=".12" stroke="#a78bfa" stroke-opacity=".45"/><text x="313" y="206" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#a78bfa">Push</text><rect x="346" y="190" width="65" height="24" rx="12" fill="#a78bfa" fill-opacity=".12" stroke="#a78bfa" stroke-opacity=".45"/><text x="378.5" y="206" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#a78bfa">Widget</text>
+</svg>
