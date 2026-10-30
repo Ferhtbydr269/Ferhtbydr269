@@ -73,13 +73,6 @@ Burada fikirden canlı ürüne giden projelerimi, prototiplerimi ve deneylerimi 
 - **Veri analizi** — Python, Pandas ve görselleştirme
 - **Makine öğrenmesi** — modelleri gerçek problemler üzerinde denemek
 
-## GitHub istatistikleri
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Ferhtbydr269&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" alt="GitHub istatistikleri">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferhtbydr269&layout=compact&theme=github_dark&hide_border=true" height="165" alt="En çok kullanılan diller">
-</p>
-
 ---
 
 <p align="center"><sub>Bir proje fikrin mi var? <a href="mailto:ferhatbaydir7@gmail.com">Yaz</a>, birlikte kuralım.</sub></p>
